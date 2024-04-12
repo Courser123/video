@@ -66338,10 +66338,10 @@ A.a7H.prototype={
 $0(){},
 $S:0}
 A.a7I.prototype={
-$0(){A.a9s(A.dA("http://langyage.net/download/\u7405\u740a\u89c6\u9891.apk",0,null))},
+$0(){A.a9s(A.dA("https://courser123.github.io/download/\u7405\u740a\u89c6\u9891.apk",0,null))},
 $S:0}
 A.a7J.prototype={
-$0(){A.a9s(A.dA("http://langyage.net/download/\u7405\u740a\u89c6\u9891.dmg",0,null))},
+$0(){A.a9s(A.dA("https://courser123.github.io/download/\u7405\u740a\u89c6\u9891.dmg",0,null))},
 $S:0}
 A.a7K.prototype={
 $0(){},
